@@ -6,7 +6,7 @@ Software Engineering Student (UADE) focused on building **high-agency AI** and d
 
 ### 🚀 Core Projects
 
-#### VOID (https://github.com/pedrof2602/VOID)
+#### [VOID] (https://github.com/pedrof2602/VOID)
 **Screen-less AI Orchestrator** | Autonomous agent orchestration that prioritizes execution over traditional interfaces.
 - **Stack:** Python, DSPy, pgvector, FastAPI.
 - **Key Tech:** Implementation of semantic routing and long-term memory (RAG) to eliminate visual interface dependency.
